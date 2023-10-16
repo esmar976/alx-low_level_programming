@@ -4,6 +4,7 @@
  *@s:string 
  *Return: length
  */
+
 int _strlen(char *s)
 {
 int longl = 0;

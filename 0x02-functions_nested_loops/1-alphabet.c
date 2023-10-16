@@ -2,7 +2,7 @@
 
 /**
  *print_alphabet-Make the alphabet.
- *Return:void 
+ *return:void
  */
 
 void print_alphabet(void)

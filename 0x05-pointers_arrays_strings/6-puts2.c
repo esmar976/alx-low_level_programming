@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * puts2 - function should print only one character out of two 
+ * puts2 - function should print only one character out of two
  * starting with the first one
- * @str: input 
- * return: print
+ * @str: input
+ * * return: print
  */
 void puts2(char *str)
 {
